@@ -1,21 +1,19 @@
-# simplehockey
-A very simple hockey game
+# SimpleHockey
+A very simple hockey game.
 
-This is a very simple Hockey game idea.
+This is a very simple hockey game idea and my first independent project.
 
-It is a one player game against an AI or a two player game with one player using WASD and the other using arrow keys.
+It is a one-player game against an AI or a two-player game with one player using `WASD` and the other using arrow keys.
 
-Currently implemented:
--Scoreboard
--Simple physics based movement
--Speed and rotation multiplier for player in lead
--Player reset
--Simple AI
--"Fun" shoot mechanic
+## Currently Implemented
+- Scoreboard
+- Simple physics-based movement
+- Speed and rotation multiplier for player in lead
+- Player reset
+- Simple AI
+- "Fun" shoot mechanic
 
-Future developement:
-
--SFX & music
--Updated sprites
--VFX
-
+## Future Development
+- SFX & music
+- Updated sprites
+- VFX
