@@ -1,0 +1,60 @@
+# Ignore the Builds directory
+/Builds/
+
+# Ignore user-specific files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Ss]ysCache.bin
+
+# Ignore auto-generated VS/VSCode/JetBrains Rider files
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.unityproj
+*.db
+*.opendb
+*.VC.db
+.idea/
+*.code-workspace
+
+# Ignore build folders and logs
+/Build/
+/Builds/
+/Logs/
+
+# Ignore crash reports
+[Cc]rashReports/
+
+# Ignore Unity's asset store tools and store packages
+/Assets/AssetStoreTools*
+
+# Ignore PlayStation 4/5 builds
+/PS4/
+.ps4dev
+/PS5/
+.ps5dev
+
+# Ignore Packed Plugin Data
+/Assets/StreamingAssets/Plugins/
+
+# Ignore JetBrains project settings and backups
+.idea/
+*.DotSettings
+.idea/workspace.xml
+
+# Ignore Mac OS generated files
+.DS_Store
+
+# Ignore Windows generated files
+Thumbs.db
