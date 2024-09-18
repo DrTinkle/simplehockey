@@ -19,3 +19,7 @@ It is a one-player game against an AI or a two-player game with one player using
 - SFX & music
 - Updated sprites
 - VFX
+  
+## License
+
+This project is licensed under the MIT license.
